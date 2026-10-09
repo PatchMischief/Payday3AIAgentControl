@@ -1,0 +1,8 @@
+.tools/
+.research/
+__pycache__/
+*.pyc
+*.log
+telemetry*.jsonl
+AgentBridge/bridge/
+AgentBridge/Scripts/agentbridge_paths.lua
