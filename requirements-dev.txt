@@ -1,0 +1,2 @@
+# Used only by the local Lua test runner; not needed by the game or the mod.
+lupa==2.8
